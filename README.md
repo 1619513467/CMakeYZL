@@ -7,10 +7,10 @@
 	2. CMake 3.23
 
 问题1：
-1. 编译libTiff库，使用git克隆https://github.com/vadz/libtiff的源码进行使用cmake编译.
-2. 编译libJPEG库，使用git克隆https://github.com/LuaDist/libjpeg，成功编译出动态库文件。
-   中途链接出现了一点问题，本次demo项目采用的是https://download.csdn.net/download/haiyangyunbao813/14004480编译好的静态文件。
-3. 编译zLib库 使用git克隆https://github.com/madler/zlib 
+1. 编译libTiff库，使用git克隆 https://github.com/vadz/libtiff 的源码进行使用cmake编译.
+2. 编译libJPEG库，使用git克隆 https://github.com/LuaDist/libjpeg ，成功编译出动态库文件。
+   中途链接出现了一点问题，本次demo项目采用的是 https://download.csdn.net/download/haiyangyunbao813/14004480 编译好的静态文件。
+3. 编译zLib库 使用git克隆 https://github.com/madler/zlib 
 
 编译均是采用cmake编译 参照github上面的README文件。
 
