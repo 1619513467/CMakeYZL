@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Project_Y/CMakeYZL/out/build/x64-debug/src/DemoYZL/CMakeFiles/DemoYZL.dir/embed.manifest"
